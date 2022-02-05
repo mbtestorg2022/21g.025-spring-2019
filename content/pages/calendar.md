@@ -4,43 +4,733 @@ title: Calendar
 uid: bbea546b-0af6-e34f-3230-e94ba6d25e8d
 ---
 
-| SES # | TOPICS | KEY DUE DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1: Being**{{< /td-colspan >}} ||| {{< br >}}{{< br >}} | {{< td-colspan 3 >}}**Week 1: Introduction**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} What does it mean to study “the idea” of Africa? {{< br >}}{{< br >}} _Introductions, course overview, how to read_ {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Making knowledge, ordering the world (I) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #1 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Weeks 2 and 3: Geography**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ﻿Making knowledge, ordering the world (II)   {{< br >}}{{< br >}} _In-class map quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #2 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Maps, power, and knowledge {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #3 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Mapping Africa {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #4 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Weeks 4 and 5: History**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Historicizing Africa {{< br >}}{{< br >}} Guest lecture by [Prof. Kenda Mutongi](http://history.mit.edu/people/kenda-mutongi), MIT History Department {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #5 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Restoring African histories: Afrocentrism {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #6 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Guest presentation and workshop by professional Vodou dance practitioner and Vodou priest, [Jean-Sébastien Duvilaire](https://www.jsddance.com/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #7 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Remembering {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #8 due {{< br >}}{{< br >}} Paper #1 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Weeks 6 and 7: Race**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Blackness and Otherness {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #9 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Blackness in Africa {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #10 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}} {{< br >}}{{< br >}} _Special event - screening:_ {{< br >}}{{< br >}} “[Rafiki](https://listart.mit.edu/events-programs/public-program-2019-women-take-reel-film-series-rafiki).” Women Take the Reel Film Series, MIT List Visual Arts Center. {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Black African body (I) {{< br >}}{{< br >}} _Field trip:_ {{< br >}}{{< br >}} “[Made Visible: Contemporary South African Art, Fashion and Identity](https://www.mfa.org/exhibitions/made-visible)” exhibition, Museum of Fine Arts. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #11 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Black African body (II) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #12 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part 2: Becoming**{{< /td-colspan >}} |||
-| {{< td-colspan 3 >}}**Week 8: Africa and / in the world after independence**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Africa and / in the world after independence (I) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #13 due  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Africa and / in the world after independence (II) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #14 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 9: Modernization theory and Africa**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Modernization theory and Africa {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #15 due  {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 10: Development and Structural Adjustment Programs**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Structural adjustment programs {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #16 due  {{< br >}}{{< br >}} Final paper prospectus due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 11: African Renaissance / Africa Rising**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The New Africa {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #17 due  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Africa as the future {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #18 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 12: Rwanda: An African Miracle?**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} In-class research and discussion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #19 due  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} In-class research and discussion {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper outline / first draft due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 13: New Africans?** {{< /td-colspan >}} ||| {{< br >}}{{< br >}} | {{< td-colspan 3 >}} {{< br >}}{{< br >}} _Special event:_ {{< br >}}{{< br >}} [“Inadelso Cossa: Personal Perspectives on Mozambican History through Film](http://act.mit.edu/projects-and-events/lectures-series/2019-spring/may-6-inadelso-cossa/).” MIT Program in Art, Culture, and Technology. {{< br >}}{{< br >}} {{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Telling stories of African pasts, presents, futures {{< br >}}{{< br >}} Guest visit by Mozambican filmmaker [Inadelso Cossa](http://act.mit.edu/people/guests/inadelso-cossa/) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #20 due  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Afropolitanism and its discontents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Reading response #21 due {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Week 14: Final paper presentations**{{< /td-colspan >}} |||
-|  {{< br >}}{{< br >}} 24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper presentations {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper presentations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final paper due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1: Being**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 1: Introduction**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+What does it mean to study “the idea” of Africa?
+
+_Introductions, course overview, how to read_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Making knowledge, ordering the world (I)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Weeks 2 and 3: Geography**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+﻿Making knowledge, ordering the world (II)  
+
+_In-class map quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #2 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Maps, power, and knowledge
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mapping Africa
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Weeks 4 and 5: History**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Historicizing Africa
+
+Guest lecture by [Prof. Kenda Mutongi](http://history.mit.edu/people/kenda-mutongi), MIT History Department
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #5 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Restoring African histories: Afrocentrism
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #6 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Guest presentation and workshop by professional Vodou dance practitioner and Vodou priest, [Jean-Sébastien Duvilaire](https://www.jsddance.com/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #7 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Remembering
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #8 due
+
+Paper #1 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Weeks 6 and 7: Race**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blackness and Otherness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #9 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Blackness in Africa
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #10 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+_Special event - screening:_
+
+“[Rafiki](https://listart.mit.edu/events-programs/public-program-2019-women-take-reel-film-series-rafiki).” Women Take the Reel Film Series, MIT List Visual Arts Center.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Black African body (I)
+
+_Field trip:_
+
+“[Made Visible: Contemporary South African Art, Fashion and Identity](https://www.mfa.org/exhibitions/made-visible)” exhibition, Museum of Fine Arts.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #11 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Black African body (II)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #12 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2: Becoming**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 8: Africa and / in the world after independence**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Africa and / in the world after independence (I)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #13 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Africa and / in the world after independence (II)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #14 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 9: Modernization theory and Africa**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Modernization theory and Africa
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #15 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 10: Development and Structural Adjustment Programs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Structural adjustment programs
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #16 due 
+
+Final paper prospectus due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 11: African Renaissance / Africa Rising**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The New Africa
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #17 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Africa as the future
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #18 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 12: Rwanda: An African Miracle?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In-class research and discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #19 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In-class research and discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper outline / first draft due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 13: New Africans?** 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+
+
+_Special event:_
+
+[“Inadelso Cossa: Personal Perspectives on Mozambican History through Film](http://act.mit.edu/projects-and-events/lectures-series/2019-spring/may-6-inadelso-cossa/).” MIT Program in Art, Culture, and Technology.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Telling stories of African pasts, presents, futures
+
+Guest visit by Mozambican filmmaker [Inadelso Cossa](http://act.mit.edu/people/guests/inadelso-cossa/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #20 due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Afropolitanism and its discontents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading response #21 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week 14: Final paper presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final paper due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
