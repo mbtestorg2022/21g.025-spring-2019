@@ -25,7 +25,7 @@ The central concern of this course is how ideas about Africa — about what Afri
 
 What trends have you identified in the material we have covered so far (through the end of the History unit) in response to the course’s central concern? If you don’t see a single dominant trend, what are the various trends or directions this process has taken? What questions or concerns do the historical cases we have considered to date raise for the idea of Africa and Africa’s place in the world in the present / future, in your opinion?
 
-Please use concrete examples from readings, employ appropriate citations, and include a bibliography (see ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chicago Citation Style: Footnotes and Bibliography (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)).
+Please use concrete examples from readings, employ appropriate citations, and include a bibliography (see [Chicago Citation Style: Footnotes and Bibliography (PDF)](https://politics.ucsc.edu/undergraduate/chicago%20style%20guide.pdf)).
 
 The paper should be 1,250 words; 5 pages double-spaced, 12 size font.
 

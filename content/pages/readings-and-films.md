@@ -141,7 +141,7 @@ _Readings_
 
 Turnbull, David. “Tricksters and Cartographers: Maps, Science and the State in the Making of a Modern Scientific Knowledge Space.” Chapter 3 in _Masons, Tricksters and Cartographers_. Routledge, 2000. ISBN: 9789058230010. 
 
-Harley, J. Brian. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Maps, Knowledge, and Power.” (PDF - 3.7MB)](https://www.muthar-alomar.com/wp-content/uploads/2013/01/Geographic-Thought.pdf#page=146)  Chapter 8 in _Geographic Thought: A Praxis Perspective_. Edited by George Henderson and Marvin Waterstone. Routledge, 2008. ISBN: 9780415471701. 
+Harley, J. Brian. [“Maps, Knowledge, and Power.” (PDF - 3.7MB)](https://www.muthar-alomar.com/wp-content/uploads/2013/01/Geographic-Thought.pdf#page=146)  Chapter 8 in _Geographic Thought: A Praxis Perspective_. Edited by George Henderson and Marvin Waterstone. Routledge, 2008. ISBN: 9780415471701. 
 
 
 {{< tdclose >}}
@@ -169,9 +169,9 @@ _Readings_
 
 Mudimbe, V.Y. “Symbols and the Interpretation of the African Past.” Chapter 1 in _The Idea of Africa_. Indiana University Press, 1994, pp. 26–30. ISBN: 9780253208729. \[Preview with [Google Books](https://books.google.com/books?id=NvfdoE9VAtcC&pg=PA26=onepage#v=onepage&q&f=false)\]
 
-Lydon, Ghislaine. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Saharan Oceans and Bridges, Barriers and Divides in Africa’s Historiographical Landscape.” (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/72183ABFF0F7C69E2DE1FE766C67D8A3/S002185371400070Xa.pdf/saharan-oceans-and-bridges-barriers-and-divides-in-africa-s-historiographical-landscape.pdf) _Journal of African History_ 56 (2015): 3–22.
+Lydon, Ghislaine. [“Saharan Oceans and Bridges, Barriers and Divides in Africa’s Historiographical Landscape.” (PDF)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/72183ABFF0F7C69E2DE1FE766C67D8A3/S002185371400070Xa.pdf/saharan-oceans-and-bridges-barriers-and-divides-in-africa-s-historiographical-landscape.pdf) _Journal of African History_ 56 (2015): 3–22.
 
-Bassett, Thomas J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Cartography and Empire Building in Nineteenth-Century West Africa." (PDF)](http://asifsiddiqi.weebly.com/uploads/8/1/0/1/8101624/bassett_cartography_and_empire_building.pdf) _Geographical Review_ 84, no. 3(1994): 316–35.
+Bassett, Thomas J. ["Cartography and Empire Building in Nineteenth-Century West Africa." (PDF)](http://asifsiddiqi.weebly.com/uploads/8/1/0/1/8101624/bassett_cartography_and_empire_building.pdf) _Geographical Review_ 84, no. 3(1994): 316–35.
 
 ———. “Indigenous Mapmaking in Intertropical Africa.” Chapter 3 in _The History of Cartography Volume 2, Book Three: Cartography in the Traditional African, American, Arctic, Australian, and Pacific Societies_. Edited by David Woodward and G. Malcolm Lewis. University of Chicago Press, 1998. ISBN: 9780226907284. 
 
@@ -205,7 +205,7 @@ Historicizing Africa
 
 _Readings_
 
-Brizuela-Garcia, Esperanza. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Africa in the World: History and Historiography.” (PDF)](https://oxfordre.com/africanhistory/view/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-296?print=pdf) _Oxford Research Encyclopedias_. 2018.
+Brizuela-Garcia, Esperanza. [“Africa in the World: History and Historiography.” (PDF)](https://oxfordre.com/africanhistory/view/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-296?print=pdf) _Oxford Research Encyclopedias_. 2018.
 
 Peterson, Derek R., and Giacomo Macola, eds. “Introduction: Homespun Historiography and the Academic Profession.” In _Recasting the Past: History Writing and Political Work in Modern Africa_. Ohio University Press, 2009. ISBN: 9780821418796. 
 
@@ -233,7 +233,7 @@ Restoring African histories: Afrocentrism
 
 _Readings_
 
-Hegel, Georg Wilhelm Friedrich. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Philosophy of History_ (PDF - 1.6MB)](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/hegel/history.pdf), pp. 109–17. 1830.
+Hegel, Georg Wilhelm Friedrich. [_The Philosophy of History_ (PDF - 1.6MB)](https://socialsciences.mcmaster.ca/econ/ugcm/3ll3/hegel/history.pdf), pp. 109–17. 1830.
 
 Diop, Cheikh Anta. “Preface: The Meaning of Our Work.” In _The African Origin of Civilization: Myth or Reality_. Edited and translated by Mercer Cook. Lawrence Hill Books, 1989. ISBN: 9781556520723. 
 
@@ -533,7 +533,7 @@ Modernization theory and Africa
 
 _Readings_
 
-Matunhu, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“A Critique of Modernization and Dependency Theories in Africa: Critical Assessment.” (PDF)](https://pdfs.semanticscholar.org/e757/f90a1232f19735537e2de0cce232233cda10.pdf) _African Journal of History and Culture_ 3, no. 5 (2011): 65–72.
+Matunhu, J. [“A Critique of Modernization and Dependency Theories in Africa: Critical Assessment.” (PDF)](https://pdfs.semanticscholar.org/e757/f90a1232f19735537e2de0cce232233cda10.pdf) _African Journal of History and Culture_ 3, no. 5 (2011): 65–72.
 
 Ferguson, James. “Decomposing Modernity.” Chapter 7 in _Global Shadows: Africa in the Neoliberal World Order_. Duke University Press Books, 2006. ISBN: 9780822337171. 
 
@@ -770,7 +770,7 @@ _Readings_
 
 Selasi, Taiye. “[Bye-Bye Babar](http://thelip.robertsharp.co.uk/?p=76).” _The LIP_, March 3, 2005.
 
-Balakrishnan, Sarah. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Pan-African Legacies, Afropolitan Futures: A Conversation with Achille Mbembe.” (PDF)](https://muse.jhu.edu/article/628422/pdf) _Transition_ 120 (2016): 20–37.
+Balakrishnan, Sarah. [“Pan-African Legacies, Afropolitan Futures: A Conversation with Achille Mbembe.” (PDF)](https://muse.jhu.edu/article/628422/pdf) _Transition_ 120 (2016): 20–37.
 
 Musila, Grace A. “[Part-Time Africans, Europolitans, and ‘Africa Lite’](https://www.tandfonline.com/doi/abs/10.1080/13696815.2015.1099424).” _Journal of African Cultural Studies_ 28, no.1 (2016): 109–13.
 
